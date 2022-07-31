@@ -1,0 +1,1 @@
+alert("Halaman ini dilindungi oleh hak cipta!")
